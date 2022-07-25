@@ -633,7 +633,7 @@ textarea.form-control {
 }
 
 .pagination {
-  margin-top: 70px;
+  /* margin-top: 70px; */
 }
 .pagination li a {
   background: #f6f6f6;
@@ -774,3 +774,7 @@ textarea.form-control {
 /* .navbar-nav a:active { 
   background-color: blue ; 
 } */
+
+.logo{
+  color:#00539CFF!important;
+}
