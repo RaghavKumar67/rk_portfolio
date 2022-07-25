@@ -778,3 +778,15 @@ textarea.form-control {
 .logo{
   color:#00539CFF!important;
 }
+
+@media (max-width:767px){
+  .overlay-inner {
+    display: none;
+}
+.overlay-content h5 {
+  display: none;
+}
+.overlay-content p {
+  display: none;
+}
+}
